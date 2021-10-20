@@ -9,7 +9,7 @@ import sys
 import os.path
 
 USAGE_URL = "https://www.purdue.edu/recwell/facility-usage/"
-TEST_STR = "Colby Fitness"
+TEST_STR = "Upper Track"
 headers = {"Accept" : "application/json, text/plain, */*",
 "Accept-Encoding" : "gzip, deflate, br",
 "Accept-Language" : "en-US,en;q=0.5",
@@ -57,6 +57,7 @@ def get_url():
             # it doesn't have the string we want, or it has run 3 times
             r.html.render(timeout = 4, sleep = 3)
             str_html = str(r.html.html) # this is getting the raw text
+            print(str_html)
             if TEST_STR in str_html:
                 print(f'Found {TEST_STR}!')
                 render_success = True

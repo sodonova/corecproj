@@ -9,7 +9,7 @@ import sys
 import os.path
 
 USAGE_URL = "https://www.purdue.edu/recwell/facility-usage/"
-TEST_STR = "Colby Fitness"
+TEST_STR = "Colby"
 headers = {"Accept" : "application/json, text/plain, */*",
 "Accept-Encoding" : "gzip, deflate, br",
 "Accept-Language" : "en-US,en;q=0.5",
