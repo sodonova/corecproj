@@ -128,8 +128,8 @@ This will always be an empty file
     --jp-code-cursor-width0: 1.4px;
     --jp-code-cursor-width1: 2px;
     --jp-code-cursor-width2: 4px;
-    --jp-layout-color0: red;
-    --jp-layout-color1: red;
+    --jp-layout-color0: white;
+    --jp-layout-color1: white;
     --jp-layout-color2: var(--md-grey-200);
     --jp-layout-color3: var(--md-grey-400);
     --jp-layout-color4: var(--md-grey-600);
@@ -233,7 +233,7 @@ This will always be an empty file
     --jp-mirror-editor-link-color: #00c;
     --jp-mirror-editor-error-color: #f00;
     --jp-mirror-editor-hr-color: #999;
-    --jp-vega-background: red;
+    --jp-vega-background: white;
     --jp-sidebar-min-width: 250px;
     --jp-search-toggle-off-opacity: 0.5;
     --jp-search-toggle-hover-opacity: 0.8;
