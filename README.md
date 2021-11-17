@@ -2,7 +2,7 @@
 A project to collect and display aggregated purdue Corec usage data.
 
 ## Usage
-If you're trying to reproduce this, I used Python 3.8.10 and the packages in requirements.txt.
+If you're trying to reproduce this, I used Python 3.9.5 and the packages in requirements.txt.
 To run the collection script after cloning:
 
 for windows:
