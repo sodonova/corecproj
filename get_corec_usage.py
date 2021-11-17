@@ -4,6 +4,14 @@ import time
 import sys
 import os.path
 
+# Write or append the results of the corec api call onto the specified file.
+# I'm considering melting it into a nicer format, but think preserving
+# the api response as it's returned might be helpful in the future?
+# This way I don't have to worry if the api returns something helpful that I wanted,
+# but formatted out.
+# It is pretty vulnerable to api changes though. A new entry in the JSON might screw up the csv.
+
+
 url = r'https://www.purdue.edu/recwell/data/c2c-api.php'
 headers = {"Accept" : "application/json, text/plain, */*",
 "Accept-Encoding" : "gzip, deflate, br",
@@ -18,11 +26,12 @@ headers = {"Accept" : "application/json, text/plain, */*",
 
 def main():
     # make a dict of the corec usage data, store in dataframe.
-    response = requests.get(url, headers = headers)
+    # Most recent occupancy data is in LastCount, not CountOfParticipants.  
+    response = requests.get(url) # , headers = headers) used before 11/16 for headers, don't think they helped
     dict_of_json = response.json()
     df = pd.DataFrame.from_dict(dict_of_json)
     # store epoch time of when recording was made
-    df['Time'] = time.time()
+    df['TimeRetrived'] = time.time()
     record_df(df)
 
 # record the df to a csv
