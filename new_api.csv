@@ -27,3 +27,367 @@
 25,7290,300,Colby (Strength),0,0,2021-11-16T18:25:59.867,117,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637105676.2940695
 26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T18:26:00.273,23,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637105676.2940695
 27,5994,300,TREC,0,0,2021-11-16T18:26:00.68,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637105676.2940695
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-16T19:28:56.227,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-16T19:28:56.683,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+2,5995,100,Upper Fitness ,0,0,2021-11-16T19:28:57.273,22,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+3,5996,100,Upper Gym,0,0,2021-11-16T19:28:57.68,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+4,6130,100,MAC Court (Cardio),0,0,2021-11-16T19:28:58.117,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+5,7289,50,MAC (badminton),0,0,2021-11-16T19:28:58.693,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-16T19:28:59.163,8,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-16T19:28:59.647,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-16T19:29:00.053,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+9,5988,50,Mindfulness Room ,0,0,2021-11-16T19:29:00.773,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-16T19:29:01.193,16,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-16T19:29:02.053,13,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-16T19:29:02.477,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+13,5981,100,Fitness Loft,0,0,2021-11-16T19:29:02.883,8,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+14,5979,100,Feature Gym,0,0,2021-11-16T19:29:03.333,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637111105.9167914
+16,5961,300,B&G Gym 4-6,0,0,2021-11-16T19:29:03.757,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+17,5993,200,Scifres ,0,0,2021-11-16T19:29:04.32,28,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+18,5972,20,Climbing Wall ,0,0,2021-11-16T19:29:04.727,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+19,5969,20,Bouldering Wall,0,0,2021-11-16T19:29:05.24,17,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-16T19:29:05.65,53,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-16T19:29:06.07,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-16T19:29:06.93,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-16T19:29:07.35,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+24,7291,300,Colby (Cardio),0,0,2021-11-16T19:29:07.757,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+25,7290,300,Colby (Strength),0,0,2021-11-16T19:29:08.49,112,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T19:29:08.963,28,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+27,5994,300,TREC,0,0,2021-11-16T19:29:09.65,17,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637111105.9167914
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-16T20:08:12.63,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-16T20:08:13.033,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+2,5995,100,Upper Fitness ,0,0,2021-11-16T20:08:13.427,16,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+3,5996,100,Upper Gym,0,0,2021-11-16T20:08:13.957,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+4,6130,100,MAC Court (Cardio),0,0,2021-11-16T20:08:14.317,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+5,7289,50,MAC (badminton),0,0,2021-11-16T20:08:14.693,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-16T20:08:15.067,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-16T20:08:15.503,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-16T20:08:15.863,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+9,5988,50,Mindfulness Room ,0,0,2021-11-16T20:08:16.223,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-16T20:08:16.58,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-16T20:08:16.94,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-16T20:08:17.3,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+13,5981,100,Fitness Loft,0,0,2021-11-16T20:08:17.677,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+14,5979,100,Feature Gym,0,0,2021-11-16T20:08:18.02,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637114702.2032297
+16,5961,300,B&G Gym 4-6,0,0,2021-11-16T20:08:18.363,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+17,5993,200,Scifres ,0,0,2021-11-16T20:08:18.707,22,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+18,5972,20,Climbing Wall ,0,0,2021-11-16T20:08:19.05,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+19,5969,20,Bouldering Wall,0,0,2021-11-16T20:08:19.393,13,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-16T20:08:19.737,47,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-16T20:08:20.163,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-16T20:08:21.16,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-16T20:08:21.51,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+24,7291,300,Colby (Cardio),0,0,2021-11-16T20:08:21.88,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+25,7290,300,Colby (Strength),0,0,2021-11-16T20:08:22.227,102,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T20:08:22.58,30,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+27,5994,300,TREC,0,0,2021-11-16T20:08:22.927,24,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637114702.2032297
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-16T21:27:17.507,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-16T21:27:18.037,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+2,5995,100,Upper Fitness ,0,0,2021-11-16T21:27:18.447,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+3,5996,100,Upper Gym,0,0,2021-11-16T21:27:18.99,28,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+4,6130,100,MAC Court (Cardio),0,0,2021-11-16T21:27:19.397,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+5,7289,50,MAC (badminton),0,0,2021-11-16T21:27:19.933,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-16T21:27:20.35,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-16T21:27:20.837,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-16T21:27:21.24,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+9,5988,50,Mindfulness Room ,0,0,2021-11-16T21:27:21.647,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-16T21:27:22.053,11,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-16T21:27:22.507,11,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-16T21:27:22.913,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+13,5981,100,Fitness Loft,0,0,2021-11-16T21:27:23.32,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+14,5979,100,Feature Gym,0,0,2021-11-16T21:27:23.727,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637118302.1250556
+16,5961,300,B&G Gym 4-6,0,0,2021-11-16T21:27:24.133,40,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+17,5993,200,Scifres ,0,0,2021-11-16T21:27:24.537,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+18,5972,20,Climbing Wall ,0,0,2021-11-16T21:27:24.943,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+19,5969,20,Bouldering Wall,0,0,2021-11-16T21:27:25.353,18,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-16T21:27:25.757,29,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-16T21:27:26.163,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-16T21:27:26.977,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-16T21:27:27.397,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+24,7291,300,Colby (Cardio),0,0,2021-11-16T21:27:27.79,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+25,7290,300,Colby (Strength),0,0,2021-11-16T21:27:28.18,96,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T21:27:28.6,29,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+27,5994,300,TREC,0,0,2021-11-16T21:27:29.007,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637118302.1250556
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-16T23:02:10.267,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-16T23:02:10.733,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+2,5995,100,Upper Fitness ,0,0,2021-11-16T23:02:11.173,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+3,5996,100,Upper Gym,0,0,2021-11-16T23:02:11.61,30,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+4,6130,100,MAC Court (Cardio),0,0,2021-11-16T23:02:12.423,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+5,7289,50,MAC (badminton),0,0,2021-11-16T23:02:12.83,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-16T23:02:13.343,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-16T23:02:13.75,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-16T23:02:14.157,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+9,5988,50,Mindfulness Room ,0,0,2021-11-16T23:02:14.563,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-16T23:02:15.11,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-16T23:02:15.517,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-16T23:02:15.923,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+13,5981,100,Fitness Loft,0,0,2021-11-16T23:02:16.33,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+14,5979,100,Feature Gym,0,0,2021-11-16T23:02:16.737,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637121902.7424245
+16,5961,300,B&G Gym 4-6,0,0,2021-11-16T23:02:17.16,35,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+17,5993,200,Scifres ,0,0,2021-11-16T23:02:17.55,28,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637121902.7424245
+19,5969,20,Bouldering Wall,0,0,2021-11-16T23:02:17.97,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-16T23:02:18.377,52,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-16T23:02:18.8,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-16T23:02:19.663,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-16T23:02:20.08,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+24,7291,300,Colby (Cardio),0,0,2021-11-16T23:02:20.563,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+25,7290,300,Colby (Strength),0,0,2021-11-16T23:02:20.97,98,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T23:02:21.377,27,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637121902.7424245
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637121902.7424245
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-16T23:02:10.267,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-16T23:02:10.733,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+2,5995,100,Upper Fitness ,0,0,2021-11-16T23:02:11.173,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+3,5996,100,Upper Gym,0,0,2021-11-16T23:02:11.61,30,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+4,6130,100,MAC Court (Cardio),0,0,2021-11-16T23:02:12.423,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+5,7289,50,MAC (badminton),0,0,2021-11-16T23:02:12.83,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-16T23:02:13.343,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-16T23:02:13.75,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-16T23:02:14.157,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+9,5988,50,Mindfulness Room ,0,0,2021-11-16T23:02:14.563,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-16T23:02:15.11,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-16T23:02:15.517,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-16T23:02:15.923,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+13,5981,100,Fitness Loft,0,0,2021-11-16T23:02:16.33,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+14,5979,100,Feature Gym,0,0,2021-11-16T23:02:16.737,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637125502.312564
+16,5961,300,B&G Gym 4-6,0,0,2021-11-16T23:02:17.16,35,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+17,5993,200,Scifres ,0,0,2021-11-16T23:02:17.55,28,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637125502.312564
+19,5969,20,Bouldering Wall,0,0,2021-11-16T23:02:17.97,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-16T23:02:18.377,52,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-16T23:02:18.8,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-16T23:02:19.663,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-16T23:02:20.08,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+24,7291,300,Colby (Cardio),0,0,2021-11-16T23:02:20.563,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+25,7290,300,Colby (Strength),0,0,2021-11-16T23:02:20.97,98,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T23:02:21.377,27,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637125502.312564
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637125502.312564
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-16T23:02:10.267,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-16T23:02:10.733,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+2,5995,100,Upper Fitness ,0,0,2021-11-16T23:02:11.173,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+3,5996,100,Upper Gym,0,0,2021-11-16T23:02:11.61,30,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+4,6130,100,MAC Court (Cardio),0,0,2021-11-16T23:02:12.423,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+5,7289,50,MAC (badminton),0,0,2021-11-16T23:02:12.83,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-16T23:02:13.343,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-16T23:02:13.75,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-16T23:02:14.157,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+9,5988,50,Mindfulness Room ,0,0,2021-11-16T23:02:14.563,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-16T23:02:15.11,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-16T23:02:15.517,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-16T23:02:15.923,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+13,5981,100,Fitness Loft,0,0,2021-11-16T23:02:16.33,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+14,5979,100,Feature Gym,0,0,2021-11-16T23:02:16.737,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637143502.205381
+16,5961,300,B&G Gym 4-6,0,0,2021-11-16T23:02:17.16,35,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+17,5993,200,Scifres ,0,0,2021-11-16T23:02:17.55,28,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637143502.205381
+19,5969,20,Bouldering Wall,0,0,2021-11-16T23:02:17.97,6,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-16T23:02:18.377,52,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-16T23:02:18.8,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-16T23:02:19.663,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-16T23:02:20.08,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+24,7291,300,Colby (Cardio),0,0,2021-11-16T23:02:20.563,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+25,7290,300,Colby (Strength),0,0,2021-11-16T23:02:20.97,98,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-16T23:02:21.377,27,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637143502.205381
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637143502.205381
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T06:04:03.643,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T06:04:04.16,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+2,5995,100,Upper Fitness ,0,0,2021-11-17T06:04:04.503,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+3,5996,100,Upper Gym,0,0,2021-11-17T06:04:05.037,47,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T06:04:05.817,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+5,7289,50,MAC (badminton),0,0,2021-11-17T06:04:06.177,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T06:04:06.52,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T06:04:07.02,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T06:04:07.363,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T06:04:07.723,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T06:04:08.05,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T06:04:08.43,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T06:04:08.79,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+13,5981,100,Fitness Loft,0,0,2021-11-17T06:04:09.363,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+14,5979,100,Feature Gym,0,0,2021-11-17T06:04:09.723,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637147102.8185308
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T06:04:10.067,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+17,5993,200,Scifres ,0,0,2021-11-17T06:04:10.393,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637147102.8185308
+19,5969,20,Bouldering Wall,0,0,2021-11-17T06:04:10.833,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T06:04:11.163,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T06:04:11.503,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T06:04:12.287,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T06:04:12.643,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+24,7291,300,Colby (Cardio),0,0,2021-11-17T06:04:13.02,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+25,7290,300,Colby (Strength),0,0,2021-11-17T06:04:13.367,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T06:04:13.693,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637147102.8185308
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637147102.8185308
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T07:03:16.483,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T07:03:16.987,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+2,5995,100,Upper Fitness ,0,0,2021-11-17T07:03:17.313,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+3,5996,100,Upper Gym,0,0,2021-11-17T07:03:17.657,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T07:03:18.657,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+5,7289,50,MAC (badminton),0,0,2021-11-17T07:03:19.3,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T07:03:19.627,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T07:03:19.953,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T07:03:20.317,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T07:03:20.657,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T07:03:20.983,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T07:03:21.313,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T07:03:21.627,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+13,5981,100,Fitness Loft,0,0,2021-11-17T07:03:21.923,15,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+14,5979,100,Feature Gym,0,0,2021-11-17T07:03:22.267,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637150702.382767
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T07:03:22.58,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+17,5993,200,Scifres ,0,0,2021-11-17T07:03:22.907,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637150702.382767
+19,5969,20,Bouldering Wall,0,0,2021-11-17T07:03:23.233,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T07:03:23.547,35,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T07:03:23.86,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T07:03:24.53,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T07:03:24.877,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+24,7291,300,Colby (Cardio),0,0,2021-11-17T07:03:25.203,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+25,7290,300,Colby (Strength),0,0,2021-11-17T07:03:25.53,42,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T07:03:25.86,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637150702.382767
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637150702.382767
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T08:00:18.193,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T08:00:18.737,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+2,5995,100,Upper Fitness ,0,0,2021-11-17T08:00:19.077,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+3,5996,100,Upper Gym,0,0,2021-11-17T08:00:19.55,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T08:00:20.593,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+5,7289,50,MAC (badminton),0,0,2021-11-17T08:00:20.937,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T08:00:21.267,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T08:00:21.61,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T08:00:21.967,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T08:00:22.313,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T08:00:22.657,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T08:00:23,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T08:00:23.39,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+13,5981,100,Fitness Loft,0,0,2021-11-17T08:00:23.75,8,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+14,5979,100,Feature Gym,0,0,2021-11-17T08:00:24.123,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637154302.5183609
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T08:00:24.483,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+17,5993,200,Scifres ,0,0,2021-11-17T08:00:24.813,23,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637154302.5183609
+19,5969,20,Bouldering Wall,0,0,2021-11-17T08:00:25.173,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T08:00:25.517,26,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T08:00:25.877,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T08:00:26.563,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T08:00:26.907,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+24,7291,300,Colby (Cardio),0,0,2021-11-17T08:00:27.25,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+25,7290,300,Colby (Strength),0,0,2021-11-17T08:00:27.61,60,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T08:00:27.953,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637154302.5183609
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637154302.5183609
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T08:54:40.213,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T08:54:40.62,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+2,5995,100,Upper Fitness ,0,0,2021-11-17T08:54:40.993,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+3,5996,100,Upper Gym,0,0,2021-11-17T08:54:41.45,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T08:54:42.837,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+5,7289,50,MAC (badminton),0,0,2021-11-17T08:54:43.18,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T08:54:43.573,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T08:54:43.917,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T08:54:44.26,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T08:54:44.62,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T08:54:45.01,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T08:54:45.4,8,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T08:54:45.907,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+13,5981,100,Fitness Loft,0,0,2021-11-17T08:54:46.243,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+14,5979,100,Feature Gym,0,0,2021-11-17T08:54:46.587,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637157902.6987498
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T08:54:46.917,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+17,5993,200,Scifres ,0,0,2021-11-17T08:54:47.293,17,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637157902.6987498
+19,5969,20,Bouldering Wall,0,0,2021-11-17T08:54:47.62,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T08:54:47.947,43,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T08:54:48.323,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T08:54:48.977,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T08:54:49.34,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+24,7291,300,Colby (Cardio),0,0,2021-11-17T08:54:49.777,7,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+25,7290,300,Colby (Strength),0,0,2021-11-17T08:54:50.15,58,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T08:54:50.493,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637157902.6987498
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637157902.6987498
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T09:58:48.297,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T09:58:48.953,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+2,5995,100,Upper Fitness ,0,0,2021-11-17T09:58:49.31,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+3,5996,100,Upper Gym,0,0,2021-11-17T09:58:50.047,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T09:58:51.39,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+5,7289,50,MAC (badminton),0,0,2021-11-17T09:58:51.733,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T09:58:52.263,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T09:58:52.763,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T09:58:53.28,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T09:58:53.657,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T09:58:54.11,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T09:58:54.89,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T09:58:55.233,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+13,5981,100,Fitness Loft,0,0,2021-11-17T09:58:55.56,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+14,5979,100,Feature Gym,0,0,2021-11-17T09:58:55.953,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637161502.7298014
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T09:58:56.327,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+17,5993,200,Scifres ,0,0,2021-11-17T09:58:56.717,17,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637161502.7298014
+19,5969,20,Bouldering Wall,0,0,2021-11-17T09:58:57.06,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T09:58:57.407,34,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T09:58:57.78,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T09:58:58.56,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T09:58:58.907,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+24,7291,300,Colby (Cardio),0,0,2021-11-17T09:58:59.623,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+25,7290,300,Colby (Strength),0,0,2021-11-17T09:59:00.063,63,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T09:59:00.407,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637161502.7298014
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637161502.7298014
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T09:58:48.297,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T09:58:48.953,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+2,5995,100,Upper Fitness ,0,0,2021-11-17T09:58:49.31,12,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+3,5996,100,Upper Gym,0,0,2021-11-17T09:58:50.047,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T09:58:51.39,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+5,7289,50,MAC (badminton),0,0,2021-11-17T09:58:51.733,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T09:58:52.263,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T09:58:52.763,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T09:58:53.28,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T09:58:53.657,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T09:58:54.11,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T09:58:54.89,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T09:58:55.233,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+13,5981,100,Fitness Loft,0,0,2021-11-17T09:58:55.56,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+14,5979,100,Feature Gym,0,0,2021-11-17T09:58:55.953,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637165102.206938
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T09:58:56.327,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+17,5993,200,Scifres ,0,0,2021-11-17T09:58:56.717,17,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637165102.206938
+19,5969,20,Bouldering Wall,0,0,2021-11-17T09:58:57.06,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T09:58:57.407,34,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T09:58:57.78,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T09:58:58.56,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T09:58:58.907,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+24,7291,300,Colby (Cardio),0,0,2021-11-17T09:58:59.623,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+25,7290,300,Colby (Strength),0,0,2021-11-17T09:59:00.063,63,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T09:59:00.407,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637165102.206938
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637165102.206938
+0,6129,100,Upper Track (4th Floor),0,0,2021-11-17T11:05:01.7,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+1,5978,50,Faculty/Staff Workout Area ,0,0,2021-11-17T11:05:02.14,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+2,5995,100,Upper Fitness ,0,0,2021-11-17T11:05:02.53,10,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+3,5996,100,Upper Gym,0,0,2021-11-17T11:05:03.077,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+4,6130,100,MAC Court (Cardio),0,0,2021-11-17T11:05:04.14,2,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+5,7289,50,MAC (badminton),0,0,2021-11-17T11:05:04.497,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+6,6158,100,West Mezzanine (3rd Floor),0,0,2021-11-17T11:05:05.077,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+7,5984,100,Atrium Track (3rd Floor),0,0,2021-11-17T11:05:05.45,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+8,6157,100,East Mezzanine (3rd Floor),0,0,2021-11-17T11:05:05.793,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+9,5988,50,Mindfulness Room ,0,0,2021-11-17T11:05:06.153,1,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+10,5991,200,Racquetball/Squash Courts ,0,0,2021-11-17T11:05:06.513,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+11,7292,100,Fitness Pavilion (strength),0,0,2021-11-17T11:05:07.263,9,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+12,7293,100,Fitness Pavilion (cardio),0,0,2021-11-17T11:05:07.703,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+13,5981,100,Fitness Loft,0,0,2021-11-17T11:05:08.36,8,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+14,5979,100,Feature Gym,0,0,2021-11-17T11:05:08.717,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+15,5960,300,B&G Gym 1-3,0,0,2021-10-21T20:30:24.72,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637168702.9781444
+16,5961,300,B&G Gym 4-6,0,0,2021-11-17T11:05:09.077,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+17,5993,200,Scifres ,0,0,2021-11-17T11:05:09.607,20,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+18,5972,20,Climbing Wall ,0,0,2021-11-16T22:44:49,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637168702.9781444
+19,5969,20,Bouldering Wall,0,0,2021-11-17T11:05:10.767,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+20,5976,300,East Fitness (Strength Equipment),0,0,2021-11-17T11:05:11.17,38,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+21,5990,50,Olympic Lifting Room ,0,0,2021-11-17T11:05:11.687,4,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+22,6132,300,MP4 (Table Tennis),0,0,2021-11-17T11:05:12.627,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+23,6131,100,MP3 (Strength Equipment),0,0,2021-11-17T11:05:12.983,5,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+24,7291,300,Colby (Cardio),0,0,2021-11-17T11:05:13.357,3,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+25,7290,300,Colby (Strength),0,0,2021-11-17T11:05:13.8,63,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+26,5985,300,Lower Gym (Badminton & Pickleball),0,0,2021-11-17T11:05:14.207,0,#ffc90e,,#ed1c24,60,90,True,976,Operations,False,1637168702.9781444
+27,5994,300,TREC,0,0,2021-11-16T22:44:49,32,#ffc90e,,#ed1c24,60,90,True,976,Operations,True,1637168702.9781444
