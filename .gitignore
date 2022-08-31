@@ -2,3 +2,6 @@ env
 env2
 venv
 .idea/
+aws-bin
+aws
+aws-cli
